@@ -1,2 +1,2 @@
 # DockerAndKubernetes
-Udemy Docker and Kubernetes Course Workout Repository.
+Udemy "Docker and kubernetes" course project repository
